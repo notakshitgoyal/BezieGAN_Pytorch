@@ -2,6 +2,7 @@
 Estimates likelihood of generated data using kernel density estimation 
 
 Author(s): Wei Chen (wchen459@umd.edu)
+Translated by akshitgoyal92051@gmail.com
 """
 
 import numpy as np
